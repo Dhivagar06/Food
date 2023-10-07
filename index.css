@@ -1,0 +1,165 @@
+.navbaer-end{
+ background-color: #0F172B;
+    justify-content: end;
+    color: white;
+}
+.carouseltop{
+    margin-top: 30px;
+}
+.carouselimage{
+height: 450px;
+}
+.imagefrondtext{
+   color: white;
+   margin-top: 20px;
+}
+.layout1{
+    width: 320px;
+    height: 250px;
+    
+}
+.layout2{
+    width: 250px;
+    height: 250px;
+ 
+margin-left: 60px;
+}
+.layout3{
+    width: 250px;
+    height: 250px;
+
+   
+}
+.layout4{
+    width: 350px;
+    height: 250px;
+}
+.about{
+    color: yellow;
+  margin-right: 300px;
+}
+.welcome{
+    margin-right: 200px;
+}
+.restorendspecifiction{
+margin-left: 80px;
+padding-left: 6px;
+}
+.experiences{
+    color: yellow;
+}
+.readmorebutton{
+     background-color: yellow;
+   border-radius: 3px;
+   border-style: none;
+   color: white;
+}
+.firstcolums{
+    border: 3px solid;
+    border-style: groove;
+    height: 350px;
+    border-radius: 10px;
+}
+.h3andpgh{
+    padding-top: 20px;
+}
+.firstcolums:hover{
+    background-color: yellow;
+    color: white;
+
+}
+.icon{
+    margin-left: 20px;
+    margin-top: 10px;
+    font-size: 50px;
+    color: yellow;
+}
+.icon:hover{
+    color: white;
+}
+.menuheadind{
+   color: yellow;
+   padding-left: 600px;
+}
+.mostpopularitems{
+    padding-left: 540px;
+}
+.menuimages{
+    width: 140px;
+    height: 110px;
+    padding-left: 40px;
+}
+.menuname{
+    margin-top: -60px;
+    padding-top: -30px;
+}
+.br{
+    padding-top: 10px;
+}
+.registerimg{
+    background-image: url("registerformimg.jpg");
+    background-size: auto;
+    height: 500px;
+}
+.Resrvation{
+    color: yellow;
+}
+.online{
+    color: white;
+}
+.table{
+    margin-top: 30px;
+}
+.button{
+    background-color: yellow;
+    color: white;
+}
+.register2{
+    background-color: #5780e8;
+}
+.masterborder{
+  margin-top: 40px;
+}
+.masterimg{
+    margin-left: 90px;
+    width: 100px;
+    height: 100px;
+    border-radius: 60px;
+}
+.chef{
+    padding-top: 20px;
+    padding-left: 100px;
+}
+.chefbutton1{
+    margin-left: 100px;
+    border-radius: 5px;
+    border-style: none;
+    margin-top: 80px;
+}
+.chefbutton2{
+    margin-left: 100px;
+    border-radius: 5px;
+    border-style: none;
+    margin-top: 20px;
+}
+.chefbutton3{
+    margin-left: 100px;
+    border-radius: 5px;
+    border-style: none;
+    margin-top: 70px;
+}
+.chefbutton4{
+    margin-left: 100px;
+    border-radius: 5px;
+    border-style: none;
+    margin-top: 105px;
+}
+.scrollTop a{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 40px;
+    margin-left: 1200px;
+  }
+.white{
+    color: white;
+}
