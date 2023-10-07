@@ -97,9 +97,10 @@ padding-left: 6px;
     padding-top: 10px;
 }
 .registerimg{
-    background-image: url("registerformimg.jpg");
-    background-size: auto;
-    height: 500px;
+    background-image: url("foodtable.jpg");
+    background-size: auto;   height: 500px;
+    background-size: cover;
+  
 }
 .Resrvation{
     color: yellow;
