@@ -1,7 +1,10 @@
 .navbaer-end{
  background-color: #0F172B;
     justify-content: end;
-    color: white;
+  
+}
+.Restaurant:hover{
+    color: yellow;
 }
 .carouseltop{
     margin-top: 30px;
